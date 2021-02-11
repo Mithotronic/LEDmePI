@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=LEDmePI
+Comment=LEDmePlay game upload tool
+Icon=/home/pi/LEDmePI/mithotronic_icon.png
+Exec=sudo python3 /home/pi/LEDmePI/LEDmePI_V1_0_0.py
+Type=Application
+Encoding=UTF-8
+Terminal=false
+Categories=None;
